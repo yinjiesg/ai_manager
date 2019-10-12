@@ -6,3 +6,4 @@ Deep learning structures algorithms in layers to create an “artificial neural 
 
 Deep learning is a subfield of machine learning. While both fall under the broad category of artificial intelligence, deep learning is what powers the most human-like artificial intelligence
 
+https://miro.medium.com/max/401/0*NkhkVzgnGZb4nqz8
